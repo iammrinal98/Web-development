@@ -12,3 +12,4 @@ For Admin Panel
 
 Open Your browser put inside browser “http://localhost/srms”
 Login Details for admin : admin/Test@123
+
